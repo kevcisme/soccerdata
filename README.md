@@ -1,13 +1,9 @@
-Football (Soccer) Data for Everyone
+Soccer Data and Predictions
 ============
 
-Football/Soccer data for anyone to use. I save them here as I find them or build the files. Data is in mostly csv and json formats.
+This repository contains data forked from https://github.com/jokecamp/FootballData
 
-See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/) for a more complete list of soccer data available online.
-
-**Files and datasets will move and schemas will change. Fork the project if you need a snapshot.**
-
-**Please add your data sets. We need more data.**
+I created it, to start writing predictive models. 
 
 ## Files
 
@@ -30,7 +26,7 @@ See [Guide to Football/Soccer data and APIs](http://www.jokecamp.com/blog/guide-
  -  [FIFA 2012 Ultimate Team Player Data](video-game-data/fifa-soccer-12-ultimate-team-data-player-database.csv)
 - [Huge set of 22 countries](https://github.com/jokecamp/FootballData/tree/master/Football-results%20(22%20countries)) - sqlite db file, csv and xls files
 
-## Contributors
+## Dataset Contributors
 
 Special Thanks to:
 
@@ -40,19 +36,6 @@ Special Thanks to:
 - niudd
 - [@michaelkunc](https://github.com/michaelkunc)
 - [@ArtemBernatskyy](https://github.com/ArtemBernatskyy)
-
-
-### To Contribute
-
-- Fork the project
-- Add your raw data files no matter how small or specific!
-- Send a pull request.
-
-If you use and clean up a file. Please re-add it so everyone can benefit.
-
-#### Contributor Resources
-
-- [JSON Formatter](https://jsonformatter.curiousconcept.com/) - readable JSON is preferred.
 
 ## Data Sources
 
